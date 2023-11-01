@@ -1,2 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
 poetry.lock
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Test files
+pytest_cache/
+coverage_html/
+htmlcov/
+
+# Other
+*.log
+*.swp
+.DS_Store
+
 NOTES.md
+/data
