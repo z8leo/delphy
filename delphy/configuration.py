@@ -1,0 +1,1 @@
+# This file contains the interfaces for the configuration variables for the application
